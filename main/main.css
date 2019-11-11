@@ -26,9 +26,6 @@ li a {
 li a:hover {
   background-color: #111;
 }
-#ruben{
-  text-align: center;
-}
 #banner2{
   position: fixed;
   top: 4.7%;
@@ -44,4 +41,8 @@ li a:hover {
   bottom: 0;
   height: 100%;
   width: 20%;
+}
+
+.blogInfo{
+  text-align: center;
 }
