@@ -42,11 +42,25 @@ li a:hover {
   height: 100%;
   width: 20%;
 }
+head{
+  background-color: green;
+}
 
 .blogInfo{
   text-align: center;
 }
 
-.blog1{
+.blogpost{
   text-align: center;
+  border-style: solid;
+  background-color: grey;
+  padding: 80px;
+  margin-top: 20px;
+}
+
+#datum{
+  margin-right: 50%;
+}
+#titel{
+  margin-bottom: 2%;
 }
