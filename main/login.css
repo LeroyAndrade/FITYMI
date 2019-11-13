@@ -71,5 +71,14 @@ span.psw {
 }
 
 #knop{
-  
+ text-align: center;
+ margin-top: 300px;
+}
+body{
+   background-image: linear-gradient(to bottom right,yellow, blue);
+   bottom: 400px;
+   background-position: absolute;
+   background-size: 1700px 1000px;
+   background-repeat: no-repeat;
+   
 }
