@@ -26,22 +26,8 @@ li a {
 li a:hover {
   background-color: #111;
 }
-#banner2{
-  position: fixed;
-  top: 4.7%;
-  right: 0;
-  bottom: 0;
-  height: 100%;
-  width: 20%;
-}
-#banner1{
-  position: fixed;
-  top: 4.7%;
-  left: 0;
-  bottom: 0;
-  height: 100%;
-  width: 20%;
-}
+
+
 head{
   background-color: green;
 }
@@ -56,6 +42,8 @@ head{
   background-color: grey;
   padding: 80px;
   margin-top: 20px;
+  max-width: 50%;
+  margin-left: 20%;
 }
 
 #datum{
