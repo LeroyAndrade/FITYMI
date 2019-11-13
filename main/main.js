@@ -1,6 +1,8 @@
-let button = document.querySelector('button');
+let button = document.querySelector('input');
 
-button.addEventListener('click', ()=>{
+button.addEventListener('click', thijs);
+
+function thijs(){
     let inputText = prompt("typen hacker die je bent");
     let t = document.createTextNode(inputText);
     let elem = document.createElement("div");
@@ -8,4 +10,5 @@ button.addEventListener('click', ()=>{
     p.appendChild(t);
     elem.appendChild(p);
     document.getElementById("blogpost").appendChild(elem);
-})
+    
+}

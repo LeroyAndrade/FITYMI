@@ -22,12 +22,11 @@ li a {
   text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
+
 li a:hover {
   background-color: #111;
 }
 
-<<<<<<< HEAD
 #banner2{
   position: fixed;
   top: 4.7%;
@@ -54,7 +53,7 @@ head{
   text-align: center;
 }
 
-.blogpost{
+#blogpost{
   text-align: center;
   border-style: solid;
   background-color: grey;
